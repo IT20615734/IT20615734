@@ -6,7 +6,7 @@ Software Engineer
 
 I love code !! ..... I am undergraduate Student in the SLIIT .
 
-* 🌍  I'm based in I'm Base on Colombo.
+* 🌍  I'm based in Colombo.
 * 🖥️  See my portfolio at [My Website](http://dinukasajith.vercel.app/)
 * ✉️  You can contact me at [Dinusajith5@gmail.com](mailto:Dinusajith5@gmail.com)
 * 🚀  I'm currently working on [DIRIYA](http://github.com/IT20615734/DIRIYA.git)
